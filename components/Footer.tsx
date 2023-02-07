@@ -36,7 +36,7 @@ export default function Footer() {
         <Link
           href="https://twitter.com/idingxiaoshan"
           className="group"
-          aria-label="Shengxj on Twitter"
+          aria-label="idingxiaoshan on Twitter"
         >
           <svg
             aria-hidden="true"
@@ -48,7 +48,7 @@ export default function Footer() {
         <Link
           href="https://github.com/codesbolt/teach-anything"
           className="group"
-          aria-label="Dingxs on GitHub"
+          aria-label="CodesBolt on GitHub"
         >
           <svg
             aria-hidden="true"
